@@ -1,3 +1,3 @@
 # Zoo
 
-This repository is the websidte ce for Assignmetn 1 - zoo
+This repository is the website for Assignment 1 - Zoo
